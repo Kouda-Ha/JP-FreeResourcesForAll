@@ -1,0 +1,34 @@
+body {
+ background-color: cornsilk;
+ color: saddlebrown;
+}
+h3 {
+ color: saddlebrown;
+ text-algn: center;
+ font: italic 200% saddlebrown;
+} 
+h5 {
+	color: darkslategray;
+	text-algn: center;
+	font: italic saddlebrown;
+}
+p {
+ background-color: burlywood;
+ color: saddlebrown;
+ font-family: courier, arial, sans-serif;
+ font-size:150%;
+ text-align: left;
+ border: 5px ridge brown;
+ box-sizing: boarder-box;
+ inline-block;
+}
+li {
+	color: saddlebrown;
+	font-family: arial, sans-serif, courier;
+	font-size: 100%;
+}
+article {
+	background-color: cornsilk;
+	color: saddlebrown;
+	font-family: arial, sans-serif, courier;
+}
